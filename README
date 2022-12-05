@@ -1,6 +1,7 @@
-Prédiction de résultats sportifs par Deep Learning
+Prediction of Basketball (NBA) results through deep learning
 
-Librairies à installer pour la bonne utilisation de ces classes :
+Libs required :
+
 - mysql.connector
 - fake_useragent
 - requests
